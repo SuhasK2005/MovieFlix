@@ -24,22 +24,26 @@ A Netflix-inspired movie search application built with React, Vite, and the OMDB
 ### Installation
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/SuhasK2005/MovieFlix.git
 cd MovieFlix
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 3. Create a `.env` file in the root directory and add your OMDB API key
+
 ```env
 VITE_OMDB_API_KEY=your_api_key_here
 ```
 
 4. Start the development server
+
 ```bash
 npm run dev
 ```
@@ -81,17 +85,20 @@ MovieFlix/
 ## 🌟 Features Breakdown
 
 ### Search Functionality
+
 - Search for any movie by title
 - Real-time API integration
 - Error handling for invalid searches
 
 ### Movie Cards
+
 - Beautiful Netflix-style cards
 - Hover effects with movie details
 - Year, type, and IMDb information
 - Direct links to IMDb pages
 
 ### User Experience
+
 - Loading states
 - Error messages
 - Empty state guidance
@@ -104,6 +111,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Suhas K**
+
 - GitHub: [@SuhasK2005](https://github.com/SuhasK2005)
 
 ## 🙏 Acknowledgments
